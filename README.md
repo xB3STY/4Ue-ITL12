@@ -1,4 +1,4 @@
-# 4Ue-ITL12
+# 4Ue-ITL12 - Name: Basty Asumadu - Übungstag: 22.11.2024 - Klasse: 3aAPC - Gruppe: A - Lehrgang: 2
 
 **Frontend:**
 ![image](https://github.com/user-attachments/assets/8f51e855-3c79-4f54-9d71-b13054fea0e4)
