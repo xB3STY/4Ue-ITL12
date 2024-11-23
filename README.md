@@ -14,3 +14,8 @@
 ![image](https://github.com/user-attachments/assets/6898ca95-04d0-47bb-ad68-fa0856be66ba)
 ![image](https://github.com/user-attachments/assets/ba1b3db0-39ca-4ef0-87a5-95f25c106f4f)
 ![image](https://github.com/user-attachments/assets/328df417-c8bc-47d7-b8d2-2809ad0b4bed)
+
+**Responive (für kleine Geräte)**
+![image](https://github.com/user-attachments/assets/68092fcd-f4f0-4d98-8f35-e5b0b961fb6b)
+![image](https://github.com/user-attachments/assets/1fe6e2d2-6db1-44fa-b79f-e24b09ae7ea1)
+
